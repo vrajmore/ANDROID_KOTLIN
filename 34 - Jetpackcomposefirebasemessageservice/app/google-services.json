@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "72048349480",
+    "firebase_url": "https://propertymanagement-1067d-default-rtdb.firebaseio.com",
+    "project_id": "propertymanagement-1067d",
+    "storage_bucket": "propertymanagement-1067d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72048349480:android:11a8e3d728e40941f1c01d",
+        "android_client_info": {
+          "package_name": "com.example.jetpackcomposefirebasemessageservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXowuEmJGoWKTdonopSQpjoBGk1gqxEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72048349480:android:fbf6c0b10e94a329f1c01d",
+        "android_client_info": {
+          "package_name": "com.propertymanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKXowuEmJGoWKTdonopSQpjoBGk1gqxEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

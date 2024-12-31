@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171018419955",
+    "project_id": "device-inventory-fab62",
+    "storage_bucket": "device-inventory-fab62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171018419955:android:9fd0efb6b1c006dc91c186",
+        "android_client_info": {
+          "package_name": "com.example.deviceinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgEBRD_ETQTzb66w0c190vE5pxWweuxco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

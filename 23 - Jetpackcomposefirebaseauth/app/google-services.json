@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286099691097",
+    "project_id": "fir-authlogin-8138b",
+    "storage_bucket": "fir-authlogin-8138b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286099691097:android:0ec760c5d57b5264740348",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbQ9_pGqrVE35iujh3Ij3AjwfEoHskAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286099691097:android:a053e31ab2831f40740348",
+        "android_client_info": {
+          "package_name": "com.example.jetpackcompose_firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbQ9_pGqrVE35iujh3Ij3AjwfEoHskAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
